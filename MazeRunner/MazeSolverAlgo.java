@@ -317,7 +317,7 @@ public class MazeSolverAlgo
         return myMazeSolver();
     }
     
-    public static void main(String[] args) throws FileNotFoundException , IOException{
+    public static void main() throws FileNotFoundException , IOException{
         
         MazeSolverAlgo mg = new MazeSolverAlgo();
         //mg.startMaze(5, 5);
